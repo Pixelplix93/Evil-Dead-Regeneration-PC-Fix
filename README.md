@@ -6,7 +6,7 @@ This fix improves the original PC version of **Evil Dead: Regeneration**.
 
 ## Features
 
-- 60 FPS Support with Frame Pacing / Timing Fix
+- 60 FPS Support with Frame Pacing Fix
 - DRM-free game executable
 - Video Playback Fix
 
