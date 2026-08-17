@@ -2,7 +2,7 @@
 
 <img width="1111" height="363" alt="EDFIX" src="https://github.com/user-attachments/assets/747c7570-6377-4b7a-ba50-55e858bcd13b" />
 
-This fix improves the original PC version of **Evil Dead: Regeneration**.
+This fix improves the PC version of **Evil Dead: Regeneration**.
 
 ## Features
 
